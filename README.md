@@ -37,7 +37,7 @@ This project implements a Transformer model for Arabic to English translation. I
 
 1. Clone the repository
 ```bash
-git clone https://github.com/saadsohail5104/Arabic-To-English-NMT-Using-Transformers.git
+git clone https://github.com/saadsohail05/Arabic-To-English-NMT-Using-Transformers.git
 cd Arabic-To-English-NMT-Using-Transformers
 ```
 
