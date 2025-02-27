@@ -103,7 +103,6 @@ EXAMPLES = [
     {"ar": "مرحبا بالعالم", "en": "Hello world"},
     {"ar": "كيف حالك اليوم؟", "en": "How are you today?"},
     {"ar": "أنا أحب اللغة العربية", "en": "I love the Arabic language"},
-    {"ar": "هذا نموذج ترجمة آلية", "en": "This is a machine translation model"},
     {"ar": "ذهبت إلى السوق صباح اليوم", "en": "I went to the market this morning"},
     {"ar": "أريد أن أتعلم اللغة الإنجليزية بسرعة", "en": "I want to learn English quickly"},
     {"ar": "الصبر مفتاح الفرج", "en": "Patience is the key to relief"}
