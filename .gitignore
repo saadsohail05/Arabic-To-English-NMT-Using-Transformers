@@ -38,11 +38,6 @@ env/
 *.swp
 *.swo
 
-# Project specific
-*.pt
-*.model
-*.vocab
-
 # OS specific
 .DS_Store
 .DS_Store?
@@ -51,3 +46,10 @@ env/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Do NOT ignore these files as they are needed for deployment
+!ar_en_transformer.pt
+!ar_tokenizer.model
+!ar_tokenizer.vocab
+!en_tokenizer.model
+!en_tokenizer.vocab
